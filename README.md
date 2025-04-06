@@ -5,6 +5,8 @@ This project involves building a **diffusion model** from scratch to generate im
 
 📄 **Paper Link:** [https://openreview.net/pdf?id=k7FuTOWMOc7](https://openreview.net/pdf?id=k7FuTOWMOc7)  
 
+The results are mainly in the "projet.ipynb" file
+
 ---
 
 ## How It Works
